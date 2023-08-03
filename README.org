@@ -1,0 +1,90 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Operataion Mountaintop
+#+date: <2023-07-06 Thu>
+#+author: Andrew M Davis, PhD
+#+email: @reconmaster:matrix.org
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+#+begin_quote
+“I have a dream that one day this nation will rise up and live out the
+true meaning of its creed — we hold these truths to be self-evident:
+that all men are created equal.”
+
+-- Martin Luther King Jr 先生
+#+end_quote
+
+#+begin_quote
+The Art of Peace is medicine for a sick world. We want to cure the
+world of the sickness of violence, malcontent, and discord—this is the
+Way of Harmony. There is evil and disorder in the world because people
+have forgotten that all things emanate from one source. Return to that
+source and leave behind all self-centered thoughts, petty desires, and
+anger. Those who are possessed by nothing possess everything.
+
+-- お先生
+#+end_quote
+* Introduction
+#+begin_quote
+“Everyone thinks; it is our nature to do so. But much of our thinking,
+left to itself, is biased, distorted, partial, uninformed or
+down-right prejudiced. Yet the quality of our life and that of what we
+produce, make, or build depends precisely on the quality of our
+thought. Shoddy thinking is costly, both in money and in quality of
+life. Excellence in thought, however, must be systematically
+cultivated.”
+
+-- Dr. Richard Paul and Dr. Linda Elder
+The Miniature Guide to Critical Thinking Concepts and Tools
+#+end_quote
+[[https://en.m.wikipedia.org/wiki/Bias][Bias]] is an inevitable part of a signal and to that extent all living
+things exhibit a signal that is biased toward Life. That being said,
+within our own species, we have inevitable developed our individual
+and tribal biases that have evolved since we migrated out of Africa.
+
+The ability to rapidly travel and the development of the internet
+signal technologies that have the ability to allow us to expand our
+minds through travel and dialouge so that we can digitally reduce the
+space between our cultural differences and mitigate prejudice before
+it escalates to conflict and subsequently war or revolution.
+
+Education, travel, and dialogue are all ways that people can learn how
+to minimize their own biased perspective to see the world through the
+eyes of others. As you are exposed to more diverse signals, you can
+learn to identify the components of your own understanding that are
+biased based on the variety of external factors that we are exposed to
+in life.
+
+The bias we hold in our own minds is subsequently reflected in our
+data that we use to model the world. Bias results in models of
+science, economics, and government that are distorted to benefit of
+one group of people without considering the utility of the model to
+the entire planet or universe.
+
+Aikido or the Way (do) of Spiritual (ki) Harmony (ai) is a martial art
+that teaches one to respect the energy of everything in this universe
+including that of even your enemy. Learning to perceive the spiritual
+energy of others on this planet helps develop an intuitive
+understanding of why you should love thy neighbor as thyself.
+
+To create a world where we reach the Mountaintop where all men and
+women are treated equally, we must work to expand our cultural
+knowledge to ensure we sufficiently sample all the diversity on this
+planet so that the models we create and the artificial intelligences
+we create are designed to provide utility for all human beings.
+** TODO planning initiation
+** TODO mission analysis
+*** TODO [[file:docs/conops.org][CONOPS]]
+Currently working on a draft to model the mission approach as a
+Special Operation with a concept of operations (CONOPS).
+** TODO course-of-action (COA) development
+* Design Team
+** TODO frame environment
+** TODO frame problem
+** TODO develop operational approach
