@@ -1,0 +1,50 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: Aikido
+#+AUTHOR: Andrew M Davis PhD, Greg Linden 先生, William Ball 先生
+#+EMAIL: @reconmaster:matrix.org, @gswhiz:matrix.org, @aikiever:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, doc
+* TODO [#A] Seminars
+We would like to organize an inclusive Aikido seminars that hopefully
+brings different styles of Aikido together to share ideas and test how
+bias can be mitigated between different styles of the supposedly same
+martial art.
+** TODO [#A] Chicago 2024
+** TODO [#A] Hawaii
+Convenient location for Asian visitors to reduce flight time.
+*** TODO [[https://www.aikidohawaii.org/][AikidoHawaii.org]]
+* TODO [#A] Youth Outreach
+Sharing the Art of Peace with the next generation ensures that this
+Operation can be continued by future Aikidoka.
+** TODO [#B] Aikido Youth Program
+Develop a youth-oriented training curriculum for youth. This could
+start as regional groups that can hopefully grow into a national and
+eventually international level.
+** TODO [#C] Aikido Merit Badge
+Scouts might see the value in adding the Art of Peace to their
+curriculum.
+** TODO [#A] Summer Aikido Camps
+We'd like to develop summer camps in both rural and urban settings to
+reach both sides of one of the largest sources of Bias in modern
+times. The Art of Peace and cross-cultural exposure can help reduce
+the anonimosity that exists between people who choose to live in
+cities and those who live in rural settings.
+*** TODO [#A] Rural
+*** TODO [#A] Urban
+A lot of youth in urban cities are plagued by violence. Training
+people in Aikido gives them both self-defense tactics as well as a the
+mental state to avoid situtations that could potentially escalte into
+a violent conflict.
+**** TODO [#A] Baltimore Youth Summer Camp 2024
+DEADLINE: <2024-06-01 Sat>
+***** NEXT [#B] select venue
+***** NEXT [#B] select camp dates
+***** NEXT [#B] organize list of teachers
+***** NEXT [#C] select schools to advertise (Middle and High Schools?)

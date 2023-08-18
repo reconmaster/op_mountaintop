@@ -1,0 +1,25 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: agenda
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, doc, agenda
+* Introduction
+This agenda file provides an outline of items that we would like to
+accomplish during Operation Mountaintop. As this document is
+effectively an input to our course of action (COA), it will be
+constantly updated to hold TODO items that don't fit within the other
+documents.
+* TODO Communities
+** TODO Inmates
+Inmates on the Federal and State level can be taught the philosophies
+from the Art of Peace. This potentially could help reduce recitivism
+and help them learn a philosophy that helps them be a peaceful member
+of society.

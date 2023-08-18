@@ -1,4 +1,4 @@
-* OpenAI
+* planning
 ** Operation design
 #+begin_ai
 [SYS]: You are a civil rights leader and advocate.
@@ -97,4 +97,48 @@ Operation Mountaintop seeks to minimize cultural, racial, and religious bias thr
 
 [ME]: 
 #+end_ai
+** existing organizations
+#+begin_ai
+[SYS]: You are a civil rights expert and research assistant.
+
+[ME]: Please generate a comprehensive list of all national and
+international organizations that are working to reduce cultural,
+racial, and religious Bias.
+1. United Nations (UN): The UN works towards promoting cultural diversity, combating racism, and eliminating discrimination based on race, ethnicity, religion, and culture. It has several specialized agencies and related entities focusing on ensuring human rights and equality.
+
+2. UNESCO: The United Nations Educational, Scientific, and Cultural Organization (UNESCO) aims to promote intercultural understanding, dialogue, and respect through initiatives like the International Coalition of Inclusive and Sustainable Cities Against Racism.
+
+3. United Nations Human Rights Council (UNHRC): The UNHRC addresses human rights violations globally, including those based on cultural, racial, and religious biases. It conducts investigations, provides recommendations, and supports efforts to combat discrimination.
+
+4. Amnesty International: Amnesty International is a global human rights organization that works to expose and eradicate all forms of discrimination, including cultural, racial, and religious biases. It conducts research, advocates for policy changes, and campaigns against human rights abuses.
+
+5. Human Rights Watch: Human Rights Watch investigates and reports on human rights abuses worldwide, with a focus on promoting equality, diversity, and combating biases based on cultural, racial, and religious differences.
+
+6. International Organization for Migration (IOM): The IOM addresses issues related to migration, including combating xenophobia, discrimination, and promoting cultural diversity. It works towards creating inclusive societies that respect cultural, racial, and religious differences.
+
+7. Anti-Defamation League (ADL): The ADL is a leading organization combating anti-Semitism and other forms of bigotry. It works towards promoting understanding, tolerance, and diversity through research, education, and advocacy.
+
+8. Southern Poverty Law Center (SPLC): The SPLC is dedicated to fighting hate, extremism, and bigotry across the United States. It tracks hate groups, provides educational resources, and advocates for social justice and equality.
+
+9. National Association for the Advancement of Colored People (NAACP): The NAACP is one of the oldest and largest civil rights organizations in the United States. It advocates for the rights of African Americans and works towards eliminating racial discrimination in all aspects of society.
+
+10. National Urban League: The National Urban League focuses on economic empowerment, civil rights, and social justice for African Americans and other underserved communities, aiming to eradicate disparities and biases.
+
+11. American Civil Liberties Union (ACLU): The ACLU is a nonprofit organization that defends civil liberties and fights discrimination and bias across various marginalized groups, including those based on race, religion, and culture.
+
+12. International Planned Parenthood Federation (IPPF): The IPPF advocates for reproductive rights and works to combat cultural biases that impact access to reproductive health services, ensuring equal and non-discriminatory care for all.
+
+13. Global Campaign for Education (GCE): GCE is a network of civil society organizations working towards promoting equal access to quality education worldwide. It advocates against cultural, racial, and religious bias in educational systems.
+
+14. Council on American-Islamic Relations (CAIR): CAIR is the largest Muslim civil rights organization in the United States, working towards combating Islamophobia and fostering a society free from discrimination and bias based on religion.
+
+15. World Economic Forum (WEF): The WEF engages with public and private sector leaders to address global challenges, including reducing cultural, racial, and religious biases in economic, social, and political systems.
+
+16. Global Alliance of National Human Rights Institutions (GANHRI): GANHRI brings together national human rights institutions from around the world to strengthen human rights protection and tackle discrimination, including cultural, racial, and religious biases.
+
+It is important to note that this list is not exhaustive, as there are numerous local, regional, and grassroots organizations actively working towards reducing cultural, racial, and religious bias.
+
+[ME]: 
+#+end_ai
+
 

@@ -13,7 +13,18 @@
 #+FILETAGS: 気, ki, doc
 Objective: [[https://en.wikipedia.org/wiki/Documentation][documentation]]
 * Introduction
-Documentation is critical to ensure our research methodology is
-completely transparent and understandable to those that consume it.
-Without a clear explanation of our procedures, the [[../results/README.org][results]] themselves
-are meaningless.
+These documents are the underlying source code that run Operation
+Mountaintop. These documents are populated with TODO items that need
+to be broken into smaller NEXT items that are achievable so that we
+can eventually get things DONE.
+* TODO [#A] [[file:conops.org][Concept of Operations (CONOPS)]]
+This document provides an overiview of the Operation design. This
+provides the blueprint for how we plan to exectue this Operation once
+the intial planning phase is complete.
+** NEXT [#A] break the CONOPS into TODO items to meet goals
+* TODO [#B] [[file:agenda.org][Agenda]]
+This document provides agenda items that don't fit in the other
+document categories.
+* TODO [#A] [[file:aikido.org][Aikido]]
+The Aikido document provides our agenda for how to spread the Art of
+Peace.

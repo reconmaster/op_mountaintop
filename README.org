@@ -88,3 +88,5 @@ Special Operation with a concept of operations (CONOPS).
 ** TODO frame environment
 ** TODO frame problem
 ** TODO develop operational approach
+* Operational Design
+** TODO center of gravity (COG)

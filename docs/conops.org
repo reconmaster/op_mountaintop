@@ -11,6 +11,10 @@
 #+select_tags: export
 #+exclude_tags: noexport
 #+creator: Emacs 28.2 (Org mode 9.5.5)
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
 Objective:
 The objective of Operation Mountaintop is to minimize
 cultural, racial, and religious bias using peace and non-violence. The
@@ -33,10 +37,11 @@ organizations, community leaders, and the public, in an effort to
 promote cultural sensitivity, education, and peaceful dialogue.
 
 * Organization:
-a. The operation will be led by 気 Force, working in collaboration
-with civil rights experts, community leaders, and representatives from
-various governmental departments, including the Department of Justice,
-Department of Education, and Department of Labor, among others.
+a. The operation will be led by \jntext{気} Force, working in
+collaboration with civil rights experts, community leaders, and
+representatives from various governmental departments, including the
+Department of Justice, Department of Education, and Department of
+Labor, among others.
 
 b. Coordination and communication between participating organizations
 will be facilitated through an Operations Center (OC), established
@@ -122,11 +127,11 @@ c. Adaptability and Flexibility:
     account.
 
 * Command and Control:
-Ki Force will oversee the overall execution of Operation Mountaintop,
-working closely with participating organizations and agencies. The
-chain of command and communication protocols will be established
-within the Operations Center to ensure coordinated efforts and
-efficient decision-making.
+\jntext{気} Force will oversee the overall execution of Operation
+Mountaintop, working closely with participating organizations and
+agencies. The chain of command and communication protocols will be
+established within the Operations Center to ensure coordinated efforts
+and efficient decision-making.
 
 * Conclusion:
 Operation Mountaintop seeks to minimize cultural, racial, and
