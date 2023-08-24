@@ -17,8 +17,20 @@ brings different styles of Aikido together to share ideas and test how
 bias can be mitigated between different styles of the supposedly same
 martial art.
 ** TODO [#A] Chicago 2024
+DEADLINE: <2024-07-12 Fri>
+*** TODO [#A] host space
+DEADLINE: <2023-09-06 Wed>
+**** NEXT Northwestern (@gswhiz)
+**** WAITING University of Chicago (@reconmaster) :WAITING:
+- State "WAITING"    from "NEXT"       [2023-08-24 Thu 07:54] \\
+  Sent an initial email to UoC inquiring about an inter-style seminar in
+  July 2024.
 ** TODO [#A] Hawaii
 Convenient location for Asian visitors to reduce flight time.
+*** WAITING Endo 先生                        :WAITING:
+- State "WAITING"    from "TODO"       [2023-08-24 Thu 08:08] \\
+  Inquiry sent to find out if there is any interest in teaching a Hawaii
+  or Western USA inter-style Aikido seminar
 *** TODO [[https://www.aikidohawaii.org/][AikidoHawaii.org]]
 * TODO [#A] Youth Outreach
 Sharing the Art of Peace with the next generation ensures that this
