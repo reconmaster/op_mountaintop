@@ -1,0 +1,26 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: organizations
+#+AUTHOR: Andrew M Davis, Greg Linden
+#+EMAIL: @reconmaster:matrix.org, @gswhiz:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, res, organizations
+* TODO Education
+** TODO [#B] [[https://freshair.org/][The Fresh Air Fund]]
+- free & enriching programs for kids living in NYC's low-income communities
+* TODO Finance
+** TODO [#B] [[https://operationhope.org/][Operation HOPE]]
+- Accelerating financial opportunity for all
+* TODO Museums
+** TODO [#A] [[https://iaamuseum.org/][International African American Museum]]
+- Charleston, SC
+** TODO [#A] [[https://nmaahc.si.edu/][Smithsonian National Museum of African American History & Culture]]
+** TODO [#A] [[https://www.obama.org/presidential-center/][The Obama Presedential Center]]
+- South Chicago in Hyde Park
+*** NEXT [#B] find how to partner with the Obama presedential center and South Chicago

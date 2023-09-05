@@ -35,7 +35,7 @@ Convenient location for Asian visitors to reduce flight time.
 * TODO [#A] Youth Outreach
 Sharing the Art of Peace with the next generation ensures that this
 Operation can be continued by future Aikidoka.
-** TODO [#B] Aikido Youth Program
+** TODO [#A] Aikido Youth Program
 Develop a youth-oriented training curriculum for youth. This could
 start as regional groups that can hopefully grow into a national and
 eventually international level.
@@ -48,7 +48,7 @@ reach both sides of one of the largest sources of Bias in modern
 times. The Art of Peace and cross-cultural exposure can help reduce
 the anonimosity that exists between people who choose to live in
 cities and those who live in rural settings.
-*** TODO [#A] Rural
+*** TODO [#B] Rural
 *** TODO [#A] Urban
 A lot of youth in urban cities are plagued by violence. Training
 people in Aikido gives them both self-defense tactics as well as a the
@@ -58,5 +58,6 @@ a violent conflict.
 DEADLINE: <2024-06-01 Sat>
 ***** NEXT [#B] select venue
 ***** NEXT [#B] select camp dates
+- Roughly schedule for a week-long program
 ***** NEXT [#B] organize list of teachers
 ***** NEXT [#C] select schools to advertise (Middle and High Schools?)
