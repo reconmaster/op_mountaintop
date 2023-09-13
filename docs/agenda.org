@@ -18,10 +18,11 @@ effectively an input to our course of action (COA), it will be
 constantly updated to hold TODO items that don't fit within the other
 documents.
 * TODO Communities
-** TODO Inmates
+** TODO [#B] Inmates
 Inmates on the Federal and State level can be taught the philosophies
 from the Art of Peace. This potentially could help reduce recitivism
 and help them learn a philosophy that helps them be a peaceful member
 of society.
+*** NEXT [#B] research victim advocacy and religious organizations that work with prisoners
 *** NEXT personal accountability for inmates
 *** NEXT impact of crime programs

@@ -11,6 +11,45 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
 #+FILETAGS: 気, ki, doc
+* TODO [#A] Dojos
+** TODO [#A] USA
+*** TODO [#A] HI
+:PROPERTIES:
+:ID:       54c67f29-b48c-458f-9c86-1f3e971b00d1
+:END:
+**** [[https://www.aikidohawaii.org/][Aikido Hawaii]]
+***** TODO [[https://www.aikidohawaii.org/dojo_directory.html][dojo directory]]
+**** [[http://ahiaikido.com/][Aikido of Hawaii International (AHI)]]
+#+begin_quote
+The purpose of Aikido is to bring out the best in people. It is to
+walk on a divine path. It is the way of the Universe.
+
+--お先生
+#+end_quote
+
+#+begin_quote
+The purpose of training is to tighten up the slack, toughen the body,
+and polish the spirit.
+
+--お先生
+#+end_quote
+***** [[http://ahiaikido.com/affiliates.html][affiliates]]
+****** [[http://ahiaikido.com/kac.html][Kailua Aikido Club]]
+***** contact
+AHI / KAC
+
+Phone: (808) 778-9787 or (808) 239-8608
+
+For correspondence, mail to:
+P.O. Box 811, Kaneohe, HI 96744
+**** [[https://aikidoofhonolulu.org/][Aikido of Honolulu]]
+Todaiji Hawaii Bekkaku Honzan 426 Luakini St.Honolulu, HI 96817
+**** [[https://www.aikidosangenkai.org/][Aikido Sangenkai]]
+Honolulu, HI
+***** [[https://www.aikidosangenkai.org/peace-prayer.html][Peace Prayer]]
+**** TODO [[http://www.aikiweb.com/][Aikiweb]]
+24 dojos found in HI
+**** [[https://www.waianaecoastaikido.com/][Waianae Coast Aikido and Movement Center]]
 * TODO [#A] Seminars
 We would like to organize an inclusive Aikido seminars that hopefully
 brings different styles of Aikido together to share ideas and test how
@@ -25,13 +64,41 @@ DEADLINE: <2023-09-06 Wed>
 - State "WAITING"    from "NEXT"       [2023-08-24 Thu 07:54] \\
   Sent an initial email to UoC inquiring about an inter-style seminar in
   July 2024.
-** TODO [#A] Hawaii
+** TODO [#A] Hawaii (Honolulu) 2024
+DEADLINE: <2024-06-01 Sat>
 Convenient location for Asian visitors to reduce flight time.
-*** WAITING Endo 先生                        :WAITING:
+*** TODO [#A] Endo 先生
+- State "TODO"       from "WAITING"    [2023-09-06 Wed 19:55]
 - State "WAITING"    from "TODO"       [2023-08-24 Thu 08:08] \\
   Inquiry sent to find out if there is any interest in teaching a Hawaii
   or Western USA inter-style Aikido seminar
-*** TODO [[https://www.aikidohawaii.org/][AikidoHawaii.org]]
+*** DONE [#B] compile list of Hawaii 先生 to send formal invitation (@reconmaster)
+CLOSED: [2023-09-13 Wed 09:52] DEADLINE: <2023-09-18 Mon>
+**** OpenAI
+#+begin_ai
+[SYS]: You are an expert on Aikido in the USA.
+
+[ME]: Please give me a comprehensive list of all Aikido dojos and
+Sensei in Hawaii.
+
+[AI]: As an AI language model, I don't have access to real-time information or the ability to generate a comprehensive list. However, I can suggest some resources and ways to find Aikido dojos and sensei in Hawaii:
+
+1. Aikikai Foundation USA: The Aikikai Foundation is the official organization for Aikido in Japan. They have affiliated dojos worldwide, including in Hawaii. You can visit their website (aikikai.or.jp) and check their dojo directory for a list of Aikido dojos in Hawaii.
+
+2. United States Aikido Federation (USAF): The USAF is a prominent organization for Aikido practitioners in the United States. They have a searchable dojo listing on their website (usafaikidonews.com) where you can search for dojos in Hawaii.
+
+3. Hawaii Aikido Federation: The Hawaii Aikido Federation is a local organization dedicated to the practice and promotion of Aikido in Hawaii. They might have a list of member dojos and sensei on their website or through their contact information.
+
+4. Online Dojo Directories: There are online directories specific to martial arts and Aikido, such as AikiWeb (aikiweb.com) and Aikido Network (aikidonetwork.com). These directories allow you to search and filter dojos by location.
+
+5. Social Media and Online Forums: Joining Aikido-related groups on platforms like Facebook, Reddit, or Aikido forums can help you connect with practitioners, locals, and enthusiasts in Hawaii who might provide recommendations and details about dojos and sensei.
+
+Remember, the information I provided may not be exhaustive, and it's always recommended to contact the specific dojos or organizations for the most accurate and up-to-date information.
+
+[ME]:
+#+end_ai
+*** NEXT [#A] draft formal invitation letter to event
+*** NEXT [#A] compile lists of dojos and senseis to invite in [[id:54c67f29-b48c-458f-9c86-1f3e971b00d1][HI]]
 * TODO [#A] Youth Outreach
 Sharing the Art of Peace with the next generation ensures that this
 Operation can be continued by future Aikidoka.
